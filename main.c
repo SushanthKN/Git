@@ -10,9 +10,6 @@ Initial Security()
  //Sample Code
 }
 
-Function2()
-{
 
-}
 
 }
