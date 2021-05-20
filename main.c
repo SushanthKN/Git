@@ -10,11 +10,15 @@ Initial Security()
  //Sample Code
 }
 
-<<<<<<< HEAD
 Function1()
-=======
+
+Function2()
+{
+
+}
+
 Security patch()
->>>>>>> master
+
 {
 
 }
